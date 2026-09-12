@@ -1,2 +1,8 @@
 # actuator-limit-guard
-Check actuator requests against explicit safety limits and step changes.
+
+Check target actuator requests against explicit range and step-change limits.
+
+```bash
+python -m unittest -v
+```
+MIT licensed.
